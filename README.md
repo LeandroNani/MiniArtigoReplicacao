@@ -21,3 +21,5 @@ Os dados brutos coletados por meio da API estão no arquivo [``data.json``](data
 
 ---
 _Leandro Pacheco (leandropacheco02@hotmail.com)_
+_Lucas Maia (lmaiarocha23@gmail.com)_
+_Otto Esteves (ottoesteves105@gmail.com)_
