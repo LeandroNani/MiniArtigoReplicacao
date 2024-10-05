@@ -21,5 +21,7 @@ Os dados brutos coletados por meio da API ao rodar o código são salvos em um a
 
 ---
 _Leandro Pacheco (leandropacheco02@hotmail.com)_
+
 _Lucas Maia (lmaiarocha23@gmail.com)_
+
 _Otto Esteves (ottoesteves105@gmail.com)_
