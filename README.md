@@ -12,7 +12,7 @@ O objetivo desta replicação é verificar se essa tendência também se manifes
 
 1. Coletar dados de cada commit feito no repositório. Código [``getCommits.py``](getCommits.py);
 1. Para cada programador, calcular a quantidade de dias em que fez pelo menos um commit no repositório. Código [``getDays.py``](getDays.py)
-1. Gerar o gráfico com mesma lógica (eixos X e Y) do artigo-base. Código[``graphActivity``](graphActivity.R)
+1. Gerar a tabela com mesma lógica do artigo-base. Código[``graphActivity``](graphActivity.py)
 
 
 ## Dados usados coletados e gerados na replicação
