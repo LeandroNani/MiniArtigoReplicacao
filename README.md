@@ -17,7 +17,7 @@ O objetivo desta replicação é verificar se essa tendência também se manifes
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados brutos coletados por meio da API estão no arquivo [``data.json``](data.json), a coleta foi feita em 01/05/2024. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo [``activity.data``](activity.data).
+Os dados brutos coletados por meio da API estão no arquivo [``data.json``](data.json), a coleta foi feita em 05/10/2024. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo [``activity.data``](activity.data).
 
 ---
 _Leandro Pacheco (leandropacheco02@hotmail.com)_
